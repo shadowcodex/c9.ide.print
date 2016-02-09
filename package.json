@@ -1,0 +1,21 @@
+{
+  "name": "c9.ide.print",
+  "description": "Adds local printing option to file menu in cloud9 ide",
+  "version": "0.0.1",
+  "author": "Shannon Duncan",
+  "contributors": [
+    {
+      "name": "Shannon Duncan",
+      "email": "shannon@unrestrictedcoding.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shadowcodex/c9.ide.print"
+  },
+  "plugins": {
+    "c9.ide.print": {}
+  },
+  "categories": ["miscellaneous"],
+  "licenses": ["MIT"]
+}
