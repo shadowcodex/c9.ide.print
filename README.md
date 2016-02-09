@@ -9,7 +9,7 @@ Print: Mac: `COMMAND-P` WIN: `CTRL-P`
 
 # Installation
 
-use command `c9 install c9.ide.print`
+use command `c9 install c9.ide.print` and then reload your editor.
 
 In order to use custom plugins during alpha you need to change some settings in your c9 workspace.
 
